@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Avni 👋
 
-<!--
-**avnieesinghall-cloud/avnieesinghall-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (2024–2028) at Amity University  
+💻 Aspiring Software Developer  
+🚀 Passionate about building real-world projects & learning backend systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+🔗 https://avnieesinghall-cloud.github.io/my-portfolio/
+
+---
+
+## 💻 Tech Stack
+- HTML, CSS, JavaScript
+- Java (OOP)
+- Python
+- SQL
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🌤 Weather App
+🔗 https://avnieesinghall-cloud.github.io/weather-app/  
+- Live weather data using API  
+- Clean UI and responsive design  
+
+---
+
+### 🤖 Chatbot (In Progress)
+- Full-stack chatbot using React + Node.js  
+- Backend currently under development  
+
+---
+
+### 🎓 Student Management System
+🔗 https://github.com/avnieesinghall-cloud/student-management-system-java  
+- Java-based CRUD application  
+- OOP concepts implementation  
+
+---
+
+### 📝 To-Do App
+- Task manager with add/delete/complete features  
+- Built using JavaScript  
+
+---
+
+## 📊 GitHub Stats
+![Avni's GitHub stats](https://github-readme-stats.vercel.app/api?username=avnieesinghall-cloud&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact Me
+📧 Email: avnieesinghall@gmail.com  
+
+---
+
+⭐ Always learning, building, and improving!
