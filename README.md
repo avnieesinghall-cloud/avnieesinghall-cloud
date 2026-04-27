@@ -1,8 +1,11 @@
-# Hi, I'm Avni 👋
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Avni Singhal</h1>
+<h3 align="center">Aspiring Software Developer | B.Tech CSE Student | Backend Learner</h3>
 
-🎓 B.Tech CSE Student (2024–2028) at Amity University  
-💻 Aspiring Software Developer  
-🚀 Passionate about building real-world projects & learning backend systems  
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Projects;Learning+Backend+Development;Future+Software+Engineer&center=true&width=500&height=45">
+</p>
 
 ---
 
@@ -11,12 +14,19 @@
 
 ---
 
+## 🚀 About Me
+- 🎓 B.Tech CSE Student (2024–2028) at Amity University  
+- 💻 Passionate about software development & problem solving  
+- ⚙️ Currently learning backend development (Node.js, APIs)  
+- 📈 Continuously building real-world projects  
+
+---
+
 ## 💻 Tech Stack
-- HTML, CSS, JavaScript
-- Java (OOP)
-- Python
-- SQL
-- Git & GitHub
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git" />
+</p>
 
 ---
 
@@ -24,21 +34,21 @@
 
 ### 🌤 Weather App
 🔗 https://avnieesinghall-cloud.github.io/weather-app/  
-- Live weather data using API  
-- Clean UI and responsive design  
+- Real-time weather data using API  
+- Responsive UI  
 
 ---
 
 ### 🤖 Chatbot (In Progress)
 - Full-stack chatbot using React + Node.js  
-- Backend currently under development  
+- Backend integration in progress  
 
 ---
 
 ### 🎓 Student Management System
 🔗 https://github.com/avnieesinghall-cloud/student-management-system-java  
-- Java-based CRUD application  
-- OOP concepts implementation  
+- Java-based CRUD system  
+- OOP implementation  
 
 ---
 
@@ -49,13 +59,30 @@
 ---
 
 ## 📊 GitHub Stats
-![Avni's GitHub stats](https://github-readme-stats.vercel.app/api?username=avnieesinghall-cloud&show_icons=true&theme=default)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avnieesinghall-cloud&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnieesinghall-cloud&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact Me
-📧 Email: avnieesinghall@gmail.com  
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avnieesinghall-cloud&theme=tokyo-night" />
+</p>
 
 ---
 
-⭐ Always learning, building, and improving!
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:avnieesinghall@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Always learning, building, and improving!*
