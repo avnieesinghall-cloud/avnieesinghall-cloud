@@ -1,11 +1,11 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Avni Singhal</h1>
-<h3 align="center">Aspiring Software Developer | B.Tech CSE Student | Backend Learner</h3>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Projects;Learning+Backend+Development;Future+Software+Engineer&center=true&width=500&height=45">
+<h1>Building the Future with Code 🚀</h1>
+<h2>I'm Avni Singhal</h2>
+<p>
+  Aspiring Software Developer specializing in modern web development. 
+  Currently learning backend systems and building scalable, real-world projects.
 </p>
+
+<a href="#projects" class="btn">View Projects</a>
 
 ---
 
