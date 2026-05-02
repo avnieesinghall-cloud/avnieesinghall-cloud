@@ -8,6 +8,9 @@
   <a href="https://avnieesinghall-cloud.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
@@ -59,6 +62,14 @@ Aspiring Software Developer focused on building scalable web applications and re
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avnieesinghall-cloud&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -72,6 +83,14 @@ Aspiring Software Developer focused on building scalable web applications and re
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=avnieesinghall-cloud&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
