@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Avni Singhal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&width=600&lines=React+%7C+JavaScript+%7C+Node.js;Future+Full-Stack+Engineer+🚀;Building+Real-World+Projects;From+Ideas+→+Real+Products" />
+</p>
+
 <h1>Building the Future with Code 🚀</h1>
 <h2>I'm Avni Singhal</h2>
 <p>
@@ -82,7 +88,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 ⭐ *Always learning, building, and improving!*
