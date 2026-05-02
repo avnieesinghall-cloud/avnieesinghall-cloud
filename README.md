@@ -47,30 +47,29 @@
 
 ## 🚀 Projects
 
-### 🌤 Weather App
-<a href="https://avnieesinghall-cloud.github.io/weather-app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avnieesinghall-cloud&repo=weather-app&theme=tokyonight" />
-</a>
+### 🌤 Weather App  
+🔗 https://avnieesinghall-cloud.github.io/weather-app/  
+- Real-time weather data using API  
+- Responsive UI  
 
 ---
 
-### 🎓 Student Management System
-<a href="https://github.com/avnieesinghall-cloud/student-management-system-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avnieesinghall-cloud&repo=student-management-system-java&theme=tokyonight" />
-</a>
-
----
-
-### 📝 To-Do App
-<a href="https://github.com/avnieesinghall-cloud/todo-web-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avnieesinghall-cloud&repo=todo-web-app&theme=tokyonight" />
-</a>
-
----
-
-### 🤖 Chatbot (In Progress)
+### 🤖 Chatbot (In Progress)  
 - Full-stack chatbot using React + Node.js  
 - Backend integration ongoing  
+
+---
+
+### 🎓 Student Management System  
+🔗 https://github.com/avnieesinghall-cloud/student-management-system-java  
+- Java-based CRUD system  
+- OOP implementation  
+
+---
+
+### 📝 To-Do App  
+- Task manager with add/delete/complete features  
+- Built using JavaScript  
 
 ---
 
