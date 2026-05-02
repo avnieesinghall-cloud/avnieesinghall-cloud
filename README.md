@@ -1,23 +1,34 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Avni%20Singhal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Building the Future with Code 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&width=600&lines=React+%7C+JavaScript+%7C+Node.js;Future+Full-Stack+Engineer+🚀;Building+Real-World+Projects;From+Ideas+→+Real+Products" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js" />
+</p>
 
 <p align="center">
   <a href="https://avnieesinghall-cloud.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-7C3AED?style=for-the-badge" />
   </a>
-  <a href="mailto:avnieesinghall@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avnieesinghall-cloud&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
+
+<p align="center">
+  Aspiring Software Developer focused on building scalable web applications and real-world solutions.
+</p>
 
 - 🎓 B.Tech CSE Student (2024–2028) at Amity University  
 - 💻 Passionate about software development & problem solving  
@@ -36,29 +47,30 @@
 
 ## 🚀 Projects
 
-### 🌤 Weather App  
-🔗 https://avnieesinghall-cloud.github.io/weather-app/  
-- Real-time weather data using API  
-- Responsive UI  
+### 🌤 Weather App
+<a href="https://avnieesinghall-cloud.github.io/weather-app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avnieesinghall-cloud&repo=weather-app&theme=tokyonight" />
+</a>
 
 ---
 
-### 🤖 Chatbot (In Progress)  
+### 🎓 Student Management System
+<a href="https://github.com/avnieesinghall-cloud/student-management-system-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avnieesinghall-cloud&repo=student-management-system-java&theme=tokyonight" />
+</a>
+
+---
+
+### 📝 To-Do App
+<a href="https://github.com/avnieesinghall-cloud/todo-web-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avnieesinghall-cloud&repo=todo-web-app&theme=tokyonight" />
+</a>
+
+---
+
+### 🤖 Chatbot (In Progress)
 - Full-stack chatbot using React + Node.js  
 - Backend integration ongoing  
-
----
-
-### 🎓 Student Management System  
-🔗 https://github.com/avnieesinghall-cloud/student-management-system-java  
-- Java-based CRUD system  
-- OOP implementation  
-
----
-
-### 📝 To-Do App  
-- Task manager with add/delete/complete features  
-- Built using JavaScript  
 
 ---
 
