@@ -1,7 +1,7 @@
 <h1 align="center">Building the Future with Code 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&width=600&lines=React+%7C+JavaScript+%7C+Node.js;Future+Full-Stack+Engineer+🚀;Building+Real-World+Projects;From+Ideas+→+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&width=600&lines=React+%7C+JavaScript+%7C+Node.js;Future+Full-Stack+Engineer+🚀;Building+Real-World+Projects;From+Ideas+→+Real+Products" />
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 <p align="center">
   <a href="https://avnieesinghall-cloud.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-7C3AED?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avnieesinghall-cloud&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=avnieesinghall-cloud&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p>
 
 ---
