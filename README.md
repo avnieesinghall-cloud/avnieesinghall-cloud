@@ -1,62 +1,62 @@
-<h1 align="center">Crafting Modern Web Experiences ✨</h1>
+<h1 align="center">Building the Future with Code 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&width=600&lines=React+%7C+JavaScript+%7C+Node.js;Future+Full-Stack+Engineer+🚀;Building+Real-World+Projects;From+Ideas+→+Real+Products" />
 </p>
 
-<h1>Building the Future with Code 🚀</h1>
-<h2>I'm Avni Singhal</h2>
-<p>
-  Aspiring Software Developer specializing in modern web development. 
-  Currently learning backend systems and building scalable, real-world projects.
+---
+
+<p align="center">
+  <a href="https://avnieesinghall-cloud.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-7C3AED?style=for-the-badge" />
+  </a>
+  <a href="mailto:avnieesinghall@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Portfolio
-🔗 https://avnieesinghall-cloud.github.io/my-portfolio/
-
----
-
 ## 🚀 About Me
+
 - 🎓 B.Tech CSE Student (2024–2028) at Amity University  
 - 💻 Passionate about software development & problem solving  
 - ⚙️ Currently learning backend development (Node.js, APIs)  
-- 📈 Continuously building real-world projects  
+- 📈 Building real-world projects consistently  
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🌤 Weather App
+### 🌤 Weather App  
 🔗 https://avnieesinghall-cloud.github.io/weather-app/  
 - Real-time weather data using API  
 - Responsive UI  
 
 ---
 
-### 🤖 Chatbot (In Progress)
+### 🤖 Chatbot (In Progress)  
 - Full-stack chatbot using React + Node.js  
-- Backend integration in progress  
+- Backend integration ongoing  
 
 ---
 
-### 🎓 Student Management System
+### 🎓 Student Management System  
 🔗 https://github.com/avnieesinghall-cloud/student-management-system-java  
 - Java-based CRUD system  
 - OOP implementation  
 
 ---
 
-### 📝 To-Do App
+### 📝 To-Do App  
 - Task manager with add/delete/complete features  
 - Built using JavaScript  
 
@@ -71,7 +71,15 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avnieesinghall-cloud&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avnieesinghall-cloud&theme=tokyo-night" />
@@ -79,12 +87,9 @@
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Currently Learning
 
-<p align="center">
-  <a href="mailto:avnieesinghall@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-⭐ *Always learning, building, and improving!*
+```text
+Backend Development (Node.js, APIs)
+Database Design (MongoDB, MySQL)
+System Design Basics
