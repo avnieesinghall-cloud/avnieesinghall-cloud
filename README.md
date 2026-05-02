@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avni Singhal</h1>
+<h1 align="center">Crafting Modern Web Experiences ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&width=600&lines=React+%7C+JavaScript+%7C+Node.js;Future+Full-Stack+Engineer+🚀;Building+Real-World+Projects;From+Ideas+→+Real+Products" />
@@ -10,8 +10,6 @@
   Aspiring Software Developer specializing in modern web development. 
   Currently learning backend systems and building scalable, real-world projects.
 </p>
-
-<a href="#projects" class="btn">View Projects</a>
 
 ---
 
