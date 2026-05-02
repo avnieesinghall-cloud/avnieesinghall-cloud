@@ -5,28 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js" />
-</p>
-
-<p align="center">
   <a href="https://avnieesinghall-cloud.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avnieesinghall-cloud&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="center">
-  Aspiring Software Developer focused on building scalable web applications and real-world solutions.
-</p>
+Aspiring Software Developer focused on building scalable web applications and real-world solutions.
 
 - 🎓 B.Tech CSE Student (2024–2028) at Amity University  
 - 💻 Passionate about software development & problem solving  
