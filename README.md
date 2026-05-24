@@ -36,30 +36,83 @@ Aspiring Software Developer focused on building scalable web applications and re
 
 ## 🚀 Projects
 
-### 🌤 Weather App  
-🔗 https://avnieesinghall-cloud.github.io/weather-app/  
-- Real-time weather data using API  
-- Responsive UI  
+📝 InsightFlow — Modern MERN Blog Platform
 
----
+🔗 Live Demo: https://blog-website-vert-alpha.vercel.app/
 
-### 🤖 Chatbot (In Progress)  
-- Full-stack chatbot using React + Node.js  
-- Backend integration ongoing  
+Features
+JWT Authentication
+Rich Text Blog Editor
+Likes & Comments
+Search & Filtering
+Glassmorphism UI
+MongoDB Backend
+Tech Stack
 
----
+React • Node.js • Express • MongoDB • JWT
 
-### 🎓 Student Management System  
-🔗 https://github.com/avnieesinghall-cloud/student-management-system-java  
-- Java-based CRUD system  
-- OOP implementation  
+💰 Finora — AI Powered Finance Tracker SaaS
 
----
+🔗 Live Demo: https://finora-rogue.vercel.app
 
-### 📝 To-Do App  
-- Task manager with add/delete/complete features  
-- Built using JavaScript  
+Features
+Expense Tracking
+Income Management
+Dashboard Analytics
+Authentication System
+SaaS-style UI
+Tech Stack
 
+MERN Stack • Charts • MongoDB
+
+🌤 Weather App
+
+🔗 Live Demo: https://avnieesinghall-cloud.github.io/weather-app/
+
+Features
+Real-time Weather Data
+OpenWeather API
+Responsive Design
+Tech Stack
+
+HTML • CSS • JavaScript
+
+📝 To-Do App
+
+🔗 Live Demo: https://todo-web-app-chi-swart.vercel.app/
+
+Features
+Add/Delete Tasks
+Mark Completed
+Responsive UI
+Tech Stack
+
+HTML • CSS • JavaScript
+
+🎓 Student Management System
+
+🔗 Repository: https://github.com/avnieesinghall-cloud/student-management-system-java
+
+Features
+CRUD Operations
+OOP Implementation
+Console-Based Java App
+Tech Stack
+
+Java • OOP
+
+🤖 AI Chatbot (In Progress)
+
+🔗 Repository: https://github.com/avnieesinghall-cloud/chatbot
+
+Features
+React Frontend
+Node.js Backend
+AI Chat Integration
+Modern Chat UI
+Tech Stack
+
+React • Node.js • Express
 ---
 
 ## 🏆 GitHub Trophies
@@ -109,3 +162,13 @@ Aspiring Software Developer focused on building scalable web applications and re
 Backend Development (Node.js, APIs)
 Database Design (MongoDB, MySQL)
 System Design Basics
+
+🚀 Goals for 2026
+
+✅ Build scalable full-stack projects
+✅ Master MERN Stack
+✅ Start freelancing
+✅ Secure software development internship
+✅ Contribute to open-source projects
+
+⭐ "Building projects consistently, one step at a time."
