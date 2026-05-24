@@ -250,9 +250,9 @@ I love turning ideas into real-world applications and continuously improving my 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avnieesinghall-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avnieesinghall-cloud&show_icons=true&theme=tokyonight" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnieesinghall-cloud&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avnieesinghall-cloud&layout=compact&theme=tokyonight" />
 </p>
 ---
 
